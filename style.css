@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 24px;
+}
+.nav-item{
+    padding: 20px;
+}
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#jumbotron h1{
+    padding-top: 100px;
+    font-size: 48px;
+    font-weight: 700;
+}
+#jumbotron hr{
+    margin-left:5px;
+    border-radius: 50px;
+    height: 5px;
+    color: blue;
+}
+#gejala .card{
+    border: 2px solid rgb(222, 226, 252);
+    border-radius: 20px;
+}
+#gejala hr{
+    margin-left:5px;
+    border-radius: 50px;
+    height: 5px;
+    color: blue;
+}
+#prokes{
+    background-color: #B8E4F0;
+    color: #2E4C6D;
+}
+#prokes hr{
+    margin-left:5px;
+    border-radius: 50px;
+    height: 5px;
+    color: blue;
+}
+.btn-round{
+    border-radius: 50px;
+    font-size: 14px;
+    background-color: cornflowerblue;
+    border: none;
+    width: 100px;
+}
+#persebaran .card{
+    border: 3px solid #B8E4F0;
+    border-radius: 10px;
+}
+.bg-secondary{
+    background-color: rgb(207, 204, 204) !important;
+}
